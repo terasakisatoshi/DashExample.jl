@@ -1,0 +1,7 @@
+name = "DashExample"
+uuid = "872657d0-8d6b-49c3-9d8e-bc66707925c8"
+authors = ["SatoshiTerasaki <terasakisatoshi.math@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Dash = "1b08a953-4be3-4667-9a23-3db579824955"
